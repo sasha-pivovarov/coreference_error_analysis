@@ -1,0 +1,12 @@
+[submodule "wl-coref"]
+	path = wl-coref
+	url = https://github.com/KarelDO/wl-coref.git
+[submodule "lingmess-coref"]
+	path = lingmess-coref
+	url = https://github.com/shon-otmazgin/lingmess-coref.git
+[submodule "ASP"]
+	path = ASP
+	url = https://github.com/lyutyuh/ASP.git
+[submodule "maverick-coref"]
+	path = maverick-coref
+	url = https://github.com/SapienzaNLP/maverick-coref.git
